@@ -1,0 +1,150 @@
+
+> myob-test@0.0.1 test E:\Projects\MYOB-test
+> node "./node_modules/mocha/bin/mocha" --compilers coffee:coffee-script/register --recursive --reporter nyan
+
+ [32m0[0m
+ [31m0[0m
+ [36m0[0m
+
+[4A[5C[38;5;154m-[0m
+[5C[38;5;154m-[0m
+[5C[38;5;154m-[0m
+[5C[38;5;154m-[0m
+[4A[6C_,------,
+[6C_|   /\_/\ 
+[6C^|__( - .-) 
+[6C  ""  "" 
+[4A[ { total: 4,
+    source: 4,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 0,
+    filename: '.bowerrc' },
+  { total: 9,
+    source: 7,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 2,
+    filename: '.editorconfig' },
+  { total: 80,
+    source: 20,
+    comment: 37,
+    single: 34,
+    block: 3,
+    mixed: 0,
+    empty: 23,
+    filename: '.gitignore' },
+  undefined,
+  { total: 21,
+    source: 20,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 1,
+    filename: '.jshintrc' },
+  { total: 16,
+    source: 9,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 7,
+    filename: 'README.md' },
+  { total: 58,
+    source: 48,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 10,
+    filename: 'app.js' },
+  undefined,
+  { total: 9,
+    source: 9,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 0,
+    filename: 'bower.json' },
+  undefined,
+  { total: 28,
+    source: 24,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 4,
+    filename: 'gulpfile.js' },
+  undefined,
+  { total: 17,
+    source: 14,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 3,
+    filename: 'log' },
+  undefined,
+  { total: 25,
+    source: 25,
+    comment: 0,
+    single: 0,
+    block: 0,
+    mixed: 0,
+    empty: 0,
+    filename: 'package.json' },
+  undefined,
+  { total: 12,
+    source: 9,
+    comment: 1,
+    single: 1,
+    block: 0,
+    mixed: 0,
+    empty: 2,
+    filename: 'serve.js' },
+  undefined,
+  undefined ]
+[ '0',
+  '1',
+  '2',
+  '3',
+  '4',
+  '5',
+  '6',
+  '7',
+  '8',
+  '9',
+  '10',
+  '11',
+  '12',
+  '13',
+  '14',
+  '15',
+  '16',
+  '17',
+  '18' ]
+ [32m1[0m
+ [31m0[0m
+ [36m0[0m
+
+[4A[5C[38;5;154m-[0m[38;5;154m_[0m
+[5C[38;5;154m-[0m[38;5;154m_[0m
+[5C[38;5;154m-[0m[38;5;154m_[0m
+[5C[38;5;154m-[0m[38;5;154m_[0m
+[4A[7C_,------,
+[7C_|  /\_/\ 
+[7C~|_( ^ .^) 
+[7C ""  "" 
+[4A
+
+
+
+
+[92m [0m[32m 1 passing[0m[90m (10ms)[0m
+
