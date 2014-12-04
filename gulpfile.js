@@ -21,8 +21,10 @@ gulp.task('default', [
 
 //node - p 'path = require("path"); exec = require("child_process").exec, child; child = exec("node " + path.join("bin", "www"), function (error, stdout, stderr) { console.log(stdout); console.log(stderr); if (error !== null) { console.log("exec error: " + error); }});'
 //node - p 'path = require("path"); exec = require("child_process").exec, child; child = exec("node " + path.join("node_modules", "mocha", "bin", "mocha") + " --compilers coffee:coffee-script/register --recursive --reporter nyan", function (error, stdout, stderr) { console.log(stdout); console.error(stderr); if (error !== null) { console.error("exec error: " + error); }});'
+/*
 path = require(\"path\");
 exec = require(\"child_process\").exec, child;
 child = exec(\"node \" + path.join(\"node_modules\", \"mocha\", \"bin\", \"mocha\") + \" --compilers coffee:coffee-script/register --recursive --reporter nyan\", function (error, stdout, stderr) {
     console.log(stdout); console.error(stderr); if (error !== null) { console.error(\"exec error: \" + error); }
 });'
+*/

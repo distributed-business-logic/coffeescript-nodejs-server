@@ -11,4 +11,11 @@ router.get '/', (req, res) ->
         version: package_json.version
         environ: req.app.get('env')
 
+
+router.get '/status', (req, res) ->
+    res.status(501).json
+        error: 'NotImplemented'
+        error_message: 'No implementation found'
+
+
 module.exports = router
